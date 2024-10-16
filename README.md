@@ -20,10 +20,6 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikshagadhe23&show_icons=true&theme=radical)
-
 
 ### 📫 Let's Connect!
 
